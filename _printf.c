@@ -1,5 +1,5 @@
 #include "main.h"
-
+**/ Collaborational update
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
